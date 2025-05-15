@@ -1,0 +1,4 @@
+name: EntityPortalFix
+version: 'v2.0'
+main: org.mimja.entityPortalFix.EntityPortalFix
+api-version: '1.21'
